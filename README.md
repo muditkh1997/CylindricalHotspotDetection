@@ -17,9 +17,7 @@ The proposed algorithm solves the computationally challenging problem of large e
 ### Solution Approach
 
 #### Enhanced Satscan Algorithm - Cylindrical Hotspot Detection
-
 ![alt text](readme/blockdiag.png)
-
 #### Ennumeration of circles based on time 
 For each year, we find all the circles that can be formed using points of that year.
 #### Enumeration Of Cylinders based on time and Log Likelihood Ratio determination 
