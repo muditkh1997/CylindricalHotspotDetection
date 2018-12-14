@@ -33,11 +33,11 @@ Using Log Likelihood Ratio (LLR) value as test statistic and Monte Carlo array t
 
 Enhanced SatScan Algorithm has been tested on Chicago criminal data of 2016 to 2018 and it has identified two potential spatial temporal cylindrical hotspot as can be seen in below figures. 
 
-![alt text](readme/testing1.bmp)       ![alt text](readme/testing2.bmp)
+![alt text](readme/testing1.bmp)   |    ![alt text](readme/testing2.bmp)
 
 
 Algorithm for spatial hotspot detection has been tested on crime data of 2015 Chicago and it has identified 2 circular hotspots as can be seen in below figure.
 
-![alt text](readme/testing3.png)
+![alt text](readme/testing3.bmp)
 
 
